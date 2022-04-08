@@ -1,5 +1,5 @@
 {
-"scenarioName" : "book-shopping",
+"scenarioName" : "book-shopping-list",
 "newScenarioState" : "cart-has-books-science-rtt",
 
   "request": {
