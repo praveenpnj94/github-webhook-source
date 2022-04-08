@@ -2,7 +2,7 @@
 "scenarioName" : "book-shopping",
 "newScenarioState" : "Started",
   "request": {
-    "urlPath": "/cart-items",
+    "urlPath": "/cart-itemschgchgc",
     "method" : "DELETE"
   },
   "response": {
