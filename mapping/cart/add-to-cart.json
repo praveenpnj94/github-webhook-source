@@ -1,6 +1,6 @@
 {
 "scenarioName" : "book-shopping",
-"newScenarioState" : "cart-has-books-science",
+"newScenarioState" : "cart-has-books-science-rtt",
 
   "request": {
     "urlPath": "/cart-items",
