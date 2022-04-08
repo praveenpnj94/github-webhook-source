@@ -3,7 +3,7 @@
   "name" : "etc_clientlibs_pluralsight_main_images_skill_logo_whitepng",
   "request" : {
     "url" : "/etc/clientlibs/pluralsight/main/images/Skill_logo_white.png",
-    "method" : "GET"
+    "method" : "POST"
   },
   "response" : {
     "status" : 200,
@@ -21,7 +21,7 @@
       "Strict-Transport-Security" : "max-age=300; includeSubDomains; preload",
       "Vary" : "Host, Accept-Encoding",
       "X-Content-Type-Options" : "nosniff",
-      "X-Frame-Options" : "SAMEORIGIN",
+      "X-Frame-Options" : "PUT",
       "X-XSS-Protection" : "1",
       "CF-Cache-Status" : "HIT",
       "Age" : "159081",
